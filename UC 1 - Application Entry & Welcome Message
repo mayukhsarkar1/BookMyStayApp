@@ -13,8 +13,6 @@
  * - static keyword
  * - Console output
  *
- * @author Pooja
- * @version 1.0
  */
 
 public class UseCase1HotelBookingApp {
